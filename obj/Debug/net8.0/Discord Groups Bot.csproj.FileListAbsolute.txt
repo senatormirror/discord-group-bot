@@ -12,3 +12,4 @@
 /home/Josh/Documents/Discord Groups Bot/obj/Debug/net8.0/Discord Groups Bot.pdb
 /home/Josh/Documents/Discord Groups Bot/obj/Debug/net8.0/Discord Groups Bot.genruntimeconfig.cache
 /home/Josh/Documents/Discord Groups Bot/obj/Debug/net8.0/ref/Discord Groups Bot.dll
+/home/Josh/Documents/Discord Groups Bot/obj/Debug/net8.0/Discord Groups Bot.sourcelink.json
