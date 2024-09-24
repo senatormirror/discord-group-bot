@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Discord Groups Bot/1.0.0": {
+        "runtime": {
+          "Discord Groups Bot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Discord Groups Bot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
